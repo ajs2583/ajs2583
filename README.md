@@ -14,9 +14,13 @@
 📚 Let's connect and embark on this coding journey together! Feel free to reach out for collaboration opportunities, coding discussions, or simply to share your favorite programming memes. Together, we can turn lines of code into impactful solutions and make a positive difference in the world of technology. Happy coding! 💻✨
 
 Skills: C / C++ / Python / JS
+
+- 📫 How to reach me? Add my discord!:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/macab)
+
  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajs2583)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sliva-andrew/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/slivandrew/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/23529680/andrew?tab=profile)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajs2583)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sliva-andrew/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/23529680/andrew?tab=profile)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajs2583)](https://github.com/anuraghazra/github-readme-stats)
 
