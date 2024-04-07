@@ -7,7 +7,7 @@
 
 🌟 With a keen interest in programming languages, I enjoy diving into Python, JavaScript, and C/C++, constantly expanding my skills and knowledge. Whether it's crafting elegant Python scripts, building dynamic web applications with JavaScript, or optimizing performance in C/C++, I'm always excited to tackle new challenges and explore innovative solutions.
 
-🚀 Beyond the classroom, I actively seek opportunities to engage with fellow programmers, sharing insights, collaborating on projects, and contributing to the vibrant developer community. Whether it's exchanging ideas on GitHub repositories, participating in coding competitions, or attending tech meetups, I thrive on connecting with like-minded individuals and fostering meaningful connections.
+🚀 Beyond the classroom, I actively seek opportunities to engage with fellow programmers, sharing insights, collaborating on projects, and contributing to the vibrant developer community. Whether it's exchanging ideas on GitHub repositories, participating in coding clubs, or attending tech meetups, I thrive on connecting with like-minded individuals and fostering meaningful connections.
 
 🔒 As a believer in the importance of cybersecurity, I'm dedicated to deepening my understanding of this critical field through my minor in Cyber Security. Committed to staying updated on the latest security trends and best practices, I strive to contribute to a safer digital environment for users worldwide.
 
