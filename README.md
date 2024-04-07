@@ -1,5 +1,7 @@
 ### 👋 Hi there! I'm Andrew
-![image](https://github.com/ajs2583/ajs2583/assets/148899989/741e63d2-d753-4c55-853e-2c5a7f13a26a)
+![github-header-image (2)](https://github.com/ajs2583/ajs2583/assets/148899989/6059d1ba-0cdd-44e7-891f-215b709a85e6)
+
+
 
 🖥️ I am a computer science student based in California, currently studying at Northern Arizona University. Passionate about coding and technology, I'm pursuing a Bachelor of Science degree in Computer Science, complemented by minors in Informatics and Cyber Security.
 
