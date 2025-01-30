@@ -3,7 +3,7 @@
 
 
 
-🖥️ I am a computer science student based in California, currently studying at Northern Arizona University. Passionate about coding and technology, I'm pursuing a Bachelor of Science degree in Computer Science, complemented by minors in Informatics and Cyber Security.
+🖥️ I am a computer science student based in Arizona, currently studying at Northern Arizona University. Passionate about coding and technology, I'm pursuing a Bachelor of Science degree in Computer Science, complemented by minors in Informatics and Cyber Security.
 
 🌟 With a keen interest in programming languages, I enjoy diving into Python, JavaScript, and C/C++, constantly expanding my skills and knowledge. Whether it's crafting elegant Python scripts, building dynamic web applications with JavaScript, or optimizing performance in C/C++, I'm always excited to tackle new challenges and explore innovative solutions.
 
