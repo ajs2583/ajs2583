@@ -1,5 +1,5 @@
 ### 👋 Hi there! I'm Andrew
-![github-header-image (2)](https://github.com/ajs2583/ajs2583/assets/148899989/6059d1ba-0cdd-44e7-891f-215b709a85e6)
+![github-header-image](https://github.com/ajs2583/ajs2583/assets/148899989/6059d1ba-0cdd-44e7-891f-215b709a85e6)
 
 
 
