@@ -1,11 +1,12 @@
 ### 👋 Hi there! I'm Andrew
-![github-header-image](https://github.com/ajs2583/ajs2583/assets/148899989/6059d1ba-0cdd-44e7-891f-215b709a85e6)
+![github-header-image](https://github.com/user-attachments/assets/d2f4814a-6e3e-40c6-ab9e-42fdca0f9ab5)
+6)
 
 
 
 🖥️ I am a computer science student based in Arizona, currently studying at Northern Arizona University. Passionate about coding and technology, I'm pursuing a Bachelor of Science degree in Computer Science, complemented by minors in Informatics and Cyber Security.
 
-🌟 With a keen interest in programming languages, I enjoy diving into Python, JavaScript, and C/C++, constantly expanding my skills and knowledge. Whether it's crafting elegant Python scripts, building dynamic web applications with JavaScript, or optimizing performance in C/C++, I'm always excited to tackle new challenges and explore innovative solutions.
+🌟 With a keen interest in programming languages, I enjoy diving into Python, JavaScript, Node.js and React.js, constantly expanding my skills and knowledge. Whether it's crafting elegant Python scripts, building dynamic web applications with JavaScript, or automating in Python, I'm always excited to tackle new challenges and explore innovative solutions.
 
 🚀 Beyond the classroom, I actively seek opportunities to engage with fellow programmers, sharing insights, collaborating on projects, and contributing to the vibrant developer community. Whether it's exchanging ideas on GitHub repositories, participating in coding clubs, or attending tech meetups, I thrive on connecting with like-minded individuals and fostering meaningful connections.
 
@@ -13,7 +14,7 @@
 
 📚 Let's connect and embark on this coding journey together! Feel free to reach out for collaboration opportunities, coding discussions, or simply to share your favorite programming memes. Together, we can turn lines of code into impactful solutions and make a positive difference in the world of technology. Happy coding! 💻✨
 
-Skills: C++ / Python / JS
+Skills: Python / JS / Flask / Selenium
 
 - 📫 How to reach me?:
 
