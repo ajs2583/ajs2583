@@ -10,7 +10,7 @@
 
 🔒 As a believer in the importance of cybersecurity, I'm dedicated to deepening my understanding of this critical field through my minor in Cyber Security. Committed to staying updated on the latest security trends and best practices, I strive to contribute to a safer digital environment for users worldwide.
 
-📚 Let's connect and embark on this coding journey together! Feel free to reach out for collaboration opportunities, coding discussions, or simply to share your favorite programming memes. Together, we can turn lines of code into impactful solutions and make a positive difference in the world of technology. Happy coding! 💻✨
+📚 Let's connect and embark on this coding journey together! Feel free to reach out for collaboration opportunities, coding discussions, or simply to share your favorite programming memes. Together, we can turn lines of code into impactful solutions and make a positive difference in the world of technology. Happy coding! 
 
 Skills: Python / JS / Flask / Selenium
 
