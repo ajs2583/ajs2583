@@ -1,7 +1,5 @@
 ### 👋 Hi there! I'm Andrew
 ![github-header-image](https://github.com/user-attachments/assets/d2f4814a-6e3e-40c6-ab9e-42fdca0f9ab5)
-6)
-
 
 
 🖥️ I am a computer science student based in Arizona, currently studying at Northern Arizona University. Passionate about coding and technology, I'm pursuing a Bachelor of Science degree in Computer Science, complemented by minors in Informatics and Cyber Security.
