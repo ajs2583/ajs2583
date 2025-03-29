@@ -1,4 +1,3 @@
-### 👋 Hi there! I'm Andrew
 ![github-header-image](https://github.com/user-attachments/assets/d2f4814a-6e3e-40c6-ab9e-42fdca0f9ab5)
 
 
