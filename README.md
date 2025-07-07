@@ -11,7 +11,7 @@
 
 📚 Let's connect and embark on this coding journey together! Feel free to reach out for collaboration opportunities, coding discussions, or simply to share your favorite programming memes. Together, we can turn lines of code into impactful solutions and make a positive difference in the world of technology. Happy coding! 
 
-🌐 Check out my personal website: [andrewliva.dev](https://andrewliva.dev)
+🌐 Check out my personal website: [andrewsliva.dev](https://andrewsliva.dev)
 
 
 Skills:
