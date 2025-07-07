@@ -11,10 +11,17 @@
 
 📚 Let's connect and embark on this coding journey together! Feel free to reach out for collaboration opportunities, coding discussions, or simply to share your favorite programming memes. Together, we can turn lines of code into impactful solutions and make a positive difference in the world of technology. Happy coding! 
 
-Skills:  
+🌐 Check out my personal website: [andrewliva.dev](https://andrewliva.dev)
+
+
+Skills:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
 
 
 
