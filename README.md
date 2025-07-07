@@ -11,9 +11,15 @@
 
 📚 Let's connect and embark on this coding journey together! Feel free to reach out for collaboration opportunities, coding discussions, or simply to share your favorite programming memes. Together, we can turn lines of code into impactful solutions and make a positive difference in the world of technology. Happy coding! 
 
-Skills: Python / JS / Flask / Selenium
+Skills:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajs2583)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 📫 How to reach me?:
 
