@@ -25,18 +25,21 @@ Skills:
 
 
 
-
+---
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajs2583)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 - 📫 How to reach me?:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='50' width='50'>](https://discordapp.com/users/macab)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50' width='50'>](https://github.com/ajs2583)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50' width='50'>](https://www.linkedin.com/in/andrew-sliva-7a49a9272/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='50' width='50'>](https://stackoverflow.com/users/23529680/andrew?tab=profile)  
 
+---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajs2583)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
