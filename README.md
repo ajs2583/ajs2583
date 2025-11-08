@@ -1,45 +1,123 @@
-![github-header-image](https://github.com/user-attachments/assets/d2f4814a-6e3e-40c6-ab9e-42fdca0f9ab5)
+<div align="center">
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5b9bd5&height=120&section=header&text=Andrew%20Sliva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full+Stack+Developer;Cyber+Security+Enthusiast&center=true&width=500&height=50&size=26&color=5b9bd5&vCenter=true" alt="Typing SVG" />
+  
+  <br><br>
+  
+  <a href="https://www.andrewsliva.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Website Badge" />
+  </a>
+  
+</div>
 
-🖥️ I am a computer science student based in Arizona, currently studying at Northern Arizona University. Passionate about coding and technology, I'm pursuing a Bachelor of Science degree in Computer Science, complemented by minors in Informatics and Cyber Security.
+<br>
 
-🌟 With a keen interest in programming languages, I enjoy diving into Python, JavaScript, Node.js, and React.js — constantly expanding my skills and knowledge. Whether it's crafting elegant Python scripts, building dynamic web applications with JavaScript, or automating workflows, I'm always excited to tackle new challenges and explore innovative solutions.
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajs2583&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=5b9bd5&line=5b9bd5&point=5b9bd5" alt="GitHub Activity Graph" />
+</div>
 
-🚀 Beyond the classroom, I actively seek opportunities to engage with fellow programmers — sharing insights, collaborating on projects, and contributing to the vibrant developer community. Whether it’s exchanging ideas on GitHub, participating in coding clubs, or attending tech meetups, I thrive on connecting with like-minded individuals.
+<br>
 
-🔒 As a believer in the importance of cybersecurity, I'm deepening my understanding of this critical field through my Cyber Security minor. Committed to staying updated on the latest security trends and best practices, I strive to contribute to a safer digital world.
+## About Me
 
-📚 Let's connect and embark on this coding journey together! Feel free to reach out for collaboration opportunities, coding discussions, or even just to share your favorite programming memes. Happy coding!
+I'm a Computer Science student at **Northern Arizona University** based in Arizona, pursuing a Bachelor of Science in Computer Science with minors in **Informatics** and **Cyber Security**.
 
----
+Passionate about building software solutions and constantly learning new technologies. I enjoy working with modern web technologies and exploring innovative approaches to problem-solving. Always open to collaboration, discussions, and new opportunities.
 
-🌐 Visit my personal website: [andrewsliva.dev](https://www.andrewsliva.dev/)
+**👉 Check out my work: [andrewsliva.dev](https://www.andrewsliva.dev/)**
 
----
+<details>
+  <summary><b>More about me</b></summary>
+  
+  - Exploring full-stack development with focus on clean, efficient code
+  - Deepening knowledge in cybersecurity principles and best practices
+  - Actively contributing to open-source projects and the developer community
+  - Continuous learner always seeking new challenges
+  
+</details>
 
-### 🛠️ Skills
+<br>
+
+## Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+<br>
+
+## GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajs2583&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5b9bd5&icon_color=5b9bd5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajs2583&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5b9bd5"/>
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajs2583&theme=github-dark&hide_border=true&background=0d1117&ring=5b9bd5&fire=5b9bd5&currStreakLabel=5b9bd5" alt="GitHub Streak" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajs2583&color=5b9bd5&style=flat-square" alt="Profile views" />
+</div>
+
+<br>
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajs2583&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+## Connect With Me
+
+<div align="center">
+  
+  <a href="https://www.andrewsliva.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Website" height="35"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/ajs2583" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/andrew-sliva-7a49a9272/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/23529680/andrew?tab=profile" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://discordapp.com/users/macab" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  
+</div>
+
+<br>
 
 ---
 
-### 📊 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajs2583)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📫 How to reach me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40' width='40'>](https://discordapp.com/users/macab)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' width='40'>](https://github.com/ajs2583)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' width='40'>](https://www.linkedin.com/in/andrew-sliva-7a49a9272/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40' width='40'>](https://stackoverflow.com/users/23529680/andrew?tab=profile)
-
----
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajs2583)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+<div align="center">
+  <i>Let's build something amazing together</i>
+</div>
