@@ -109,7 +109,7 @@ A Python-based desktop application for automated neuronal image analysis. Stream
 </div>
 
 <p align="left">
-A VS Code extension for the RESHAPE Lab, providing enhanced functionality for Sigil PS workflows.
+An LLM-based conversational agent for VS Code designed for novice programming students. Provides coaching and scaffolding to support computational thinking skills development.
 </p>
 
 </td>
