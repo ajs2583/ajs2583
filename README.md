@@ -15,11 +15,11 @@
   <a href="https://www.andrewsliva.dev/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="mailto:sliva.andrew1502@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/andrew-sliva-7a49a9272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/23529680/andrew?tab=profile" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
   <a href="https://discordapp.com/users/macab" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -33,7 +33,7 @@
 
 I'm a Computer Science student at **Northern Arizona University** pursuing a Bachelor of Science with minors in **Informatics** and **Cyber Security**. Currently, I work as an Undergraduate Research Assistant at **RESHAPE Lab** at NAU, where I'm developing RAG evaluation methodologies and working on AI/ML projects including LLM-mediated programming education systems.
 
-I'm passionate about building software that makes a real impact, whether that's automating tedious workflows, creating tools that help people learn, or developing systems that just work better. My interests span full-stack development, automation, and cybersecurity, and I'm always looking for ways to write cleaner, more efficient code.
+I'm passionate about building software that makes a real impact—whether that's automating tedious workflows, creating tools that help people learn, or developing systems that just work better. My interests span full-stack development, automation, and cybersecurity, and I'm always looking for ways to write cleaner, more efficient code.
 
 When I'm not in class or working on research, you'll find me tinkering with side projects, contributing to open source, or exploring new technologies. I'm currently seeking opportunities where I can contribute to meaningful projects and continue growing as a developer.
 
