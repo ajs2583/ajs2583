@@ -150,8 +150,8 @@ class Developer:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajs2583&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ajs2583&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajs2583&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&border_radius=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajs2583&show_icons=true&theme=dark&include_all_commits=false&count_private=false&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&hide=contribs&border_radius=10&custom_title=This%20Year"/>
 </div>
 
 <br>
@@ -163,7 +163,7 @@ class Developer:
 <br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajs2583&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajs2583&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&border_radius=10"/>
 </div>
 
 <br>
