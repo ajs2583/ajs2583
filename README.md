@@ -31,24 +31,26 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at **Northern Arizona University** pursuing a Bachelor of Science with minors in **Informatics** and **Cyber Security**. Based in Arizona, I'm passionate about building efficient software solutions and continuously expanding my technical expertise.
+I'm a Computer Science student at **Northern Arizona University** pursuing a Bachelor of Science with minors in **Informatics** and **Cyber Security**. Currently, I work as an Undergraduate Research Assistant at **RESHAPE Lab** at NAU, where I'm developing RAG evaluation methodologies and working on AI/ML projects including LLM-mediated programming education systems.
 
-My interests span full-stack development, process automation, and cybersecurity. I focus on writing clean, maintainable code and finding innovative approaches to complex problems. Currently seeking opportunities to contribute to impactful projects and collaborative development teams.
+I'm passionate about building software that makes a real impact, whether that's automating tedious workflows, creating tools that help people learn, or developing systems that just work better. My interests span full-stack development, automation, and cybersecurity, and I'm always looking for ways to write cleaner, more efficient code.
+
+When I'm not in class or working on research, you'll find me tinkering with side projects, contributing to open source, or exploring new technologies. I'm currently seeking opportunities where I can contribute to meaningful projects and continue growing as a developer.
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Andrew Sliva"
-        self.role = "Computer Science Student"
+        self.role = "CS Student & Research Assistant"
+        self.workplace = "RESHAPE Lab @ NAU"
         self.location = "Arizona, USA"
-        self.education = "Northern Arizona University"
         self.interests = ["Full-Stack Development", "Automation", 
-                         "Cybersecurity", "Open Source"]
+                         "Cybersecurity", "AI/ML", "Open Source"]
     
     def get_current_focus(self):
-        return ["Building scalable applications", 
-                "Workflow optimization",
-                "Contributing to open source"]
+        return ["RAG evaluation methodologies", 
+                "LLM-powered educational tools",
+                "Building practical solutions to real problems"]
 ```
 
 <br>
