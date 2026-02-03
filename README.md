@@ -41,7 +41,7 @@ When I'm not in class or working on research, you'll find me tinkering with side
 class Developer:
     def __init__(self):
         self.name = "Andrew Sliva"
-        self.role = "CS Student & Research Assistant"
+        self.role = "CS Student & Research Assistant Developer"
         self.workplace = "RESHAPE Lab @ NAU"
         self.location = "Arizona, USA"
         self.interests = ["Full-Stack Development", "Automation", 
