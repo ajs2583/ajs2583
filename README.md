@@ -174,7 +174,7 @@ class Developer:
   
   <br><br>
   
-  **Open to collaboration and new opportunities**
+  **Stay curious**
   
   <br>
   
