@@ -157,7 +157,7 @@ class Developer:
 <br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajs2583&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&border_radius=10&cache_seconds=86400&include_forks=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajs2583&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="Top Langs"/>
 </div>
 
 <br>
