@@ -157,13 +157,13 @@ class Developer:
 <br>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajs2583&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=FF6B35&line=FF6B35&point=FFFFFF&height=300" alt="Contribution Graph"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajs2583&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&border_radius=10&cache_seconds=86400&include_forks=true"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajs2583&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&border_radius=10"/>
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajs2583&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=FF6B35&line=FF6B35&point=FFFFFF&height=300" alt="Contribution Graph"/>
 </div>
 
 <br>
